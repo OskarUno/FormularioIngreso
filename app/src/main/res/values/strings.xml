@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormularioIngreso</string>
+    <string name="by_oskaruno">By OskarUno</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+</resources>
