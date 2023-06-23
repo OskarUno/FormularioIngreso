@@ -3,7 +3,10 @@
     <style name="Base.Theme.FormularioIngreso" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
     </style>
 
-    <style name="Theme.FormularioIngreso" parent="Base.Theme.FormularioIngreso" />
+    <style name="Theme.FormularioIngreso" parent="Base.Theme.FormularioIngreso" >
+        <item name="android:background">#52AF56</item>
+    </style>
 </resources>
